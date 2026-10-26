@@ -1,0 +1,46 @@
+# --- Compiled output ---
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# --- Code::Blocks build folders and per-user files (keep the .cbp project file) ---
+bin/
+obj/
+*.depend
+*.layout
+*.cscope_file_list
+
+# --- Debugger / build artefacts ---
+*.pdb
+*.ilk
+*.gch
+*.pch
+
+# --- Environment / secrets files ---
+.env
+.env.*
+
+# --- IDE / editor settings ---
+.idea/
+.vscode/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# --- Operating-system files ---
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.directory
+.Trash-*
