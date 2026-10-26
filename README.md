@@ -30,11 +30,11 @@ This repository is used **only** to submit your completed programming tasks.
 ## 1. Fork this repository (GitHub website — once)
 
 1. Sign in to **your own** GitHub account.
-2. Open `https://github.com/fredre/ncv-level3-C-submissions`.
+2. Open `https://github.com/fredre/ncv-level3-cpp-submissions-2026`.
 3. Click **Fork** (top right).
 4. Choose **your own account** as the owner, then click **Create fork**.
 5. Check the address bar. It must show **your** username:
-   `https://github.com/USERNAME/ncv-level3-C-submissions`
+   `https://github.com/USERNAME/ncv-level3-cpp-submissions-2026`
 
 ## 2. Copy the clone URL from your fork
 
@@ -45,13 +45,13 @@ On **your fork** (not the original), click the green **Code** button, select **H
 Replace `USERNAME` with your own GitHub username:
 
 ```bash
-git clone https://github.com/USERNAME/ncv-level3-C-submissions.git
+git clone https://github.com/USERNAME/ncv-level3-cpp-submissions-2026.git
 ```
 
 ## 4. Enter the local repository
 
 ```bash
-cd ncv-level3-C-submissions
+cd ncv-level3-cpp-submissions-2026
 ```
 
 ## 5. Verify `origin`
@@ -128,8 +128,8 @@ Repeat steps 6–12 for every task. **Do not fork or clone again.** Keep working
 2. Open **your fork** on GitHub.
 3. Click **Contribute → Open pull request** (or **Pull requests → New pull request → compare across forks**).
 4. Check the settings:
-   - **base repository:** `fredre/ncv-level3-C-submissions` — **base:** `main`
-   - **head repository:** `USERNAME/ncv-level3-C-submissions` — **compare:** `main`
+   - **base repository:** `fredre/ncv-level3-cpp-submissions-2026` — **base:** `main`
+   - **head repository:** `USERNAME/ncv-level3-cpp-submissions-2026` — **compare:** `main`
 5. Review the list of changed files.
 6. Title: `NCV L3 Final Submission - USERNAME`, complete the template, then click **Create pull request**.
 7. Copy the pull request URL and send it to the facilitator.
@@ -142,8 +142,8 @@ Keep your fork until the review is finished. Corrections can be committed and pu
 
 ```bash
 # Once
-git clone https://github.com/USERNAME/ncv-level3-C-submissions.git
-cd ncv-level3-C-submissions
+git clone https://github.com/USERNAME/ncv-level3-cpp-submissions-2026.git
+cd ncv-level3-cpp-submissions-2026
 git remote -v
 
 # For every task (change the day and task number)
